@@ -1,0 +1,5 @@
+{
+  "name": "Horoscope Fortune",
+  "description": "A professional horoscope app featuring daily summaries and detailed dimension analysis using Gemini AI. Supports entitlements, caching, and a premium paywall experience.",
+  "requestFramePermissions": []
+}
